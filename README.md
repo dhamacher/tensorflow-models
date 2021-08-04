@@ -1,2 +1,3 @@
 # tensorflow-models
-Collection of TensorFlow models in preparation of writing the Google TensorFlow Certificate exam.
+Collection of TensorFlow models build in Google Colab in preparation for writing the Google TensorFlow Developer 
+Certificate exam.
